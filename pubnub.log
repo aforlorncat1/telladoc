@@ -1,0 +1,6 @@
+# Logfile created on 2016-03-19 13:55:20 +0800 by logger.rb/41954
+I, [2016-03-19T13:55:20.783450 #6249]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 3.8.0
+I, [2016-03-19T18:15:36.031953 #6760]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 3.8.0
+I, [2016-03-19T18:15:48.099462 #6796]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 3.8.0
+I, [2016-03-19T18:17:14.733424 #6850]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 3.8.0
+I, [2016-03-19T18:17:35.814273 #6888]  INFO -- Pubnub::Client: Created new Pubnub::Client instance. Version: 3.8.0
